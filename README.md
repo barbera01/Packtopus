@@ -1,4 +1,4 @@
 # Packtopus
 
-![Packtopus](Assets/logo.jpg)
+![Packtopus](Packtopus/Assets/logo.png)
 
